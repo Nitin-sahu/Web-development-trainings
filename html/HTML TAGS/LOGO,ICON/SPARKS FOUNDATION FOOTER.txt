@@ -1,0 +1,19 @@
+https://fontawesome.com/v4/icon/facebook-square
+
+ <i class="social-icon fa fa-facebook-square"aria-hidden></i> ICONS
+
+FOOTER
+	PARAGHRH TEXT
+		
+			FACEBOON ICON, INSTAGRAM ICON, TWITTER ICON, LINKEDIN ICON
+
+<footer id="footer" class="coloured-section">
+  <p>SOCIAL MEDIA HANDLES</p>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <i class="social-icon fa fa-facebook-square"aria-hidden></i>
+    <i class="social-icon fa fa-instagram" aria-hidden="true"></i>
+    <i class="social-icon fa fa-twitter" aria-hidden="true"></i>
+    <i class="social-icon fa fa-linkedin" aria-hidden="true"></i>
+        <p>© Copyright 2021 THE SPARKS BANK.</p>
+  </footer>
+

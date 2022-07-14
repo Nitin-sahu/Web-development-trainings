@@ -1,0 +1,14 @@
+What is TD scope in HTML?
+The HTML <td> scope Attribute is used to specify the cell is used for header row, column, colgroup or rowgroup. This attribute does not display any visual effect on the browser but it is used for screen readers.06-Jan-2022
+
+ <tr class="table-light">
+                        <td scope="row">3</td>
+                         <td>
+                            <p id="Transaction ID">ICICI10258976300</p>
+                        </td>
+                        <td>Ravi</td>
+                        <td>ravi@gmail.com</td>
+                        <td>
+                            <p id="Total Amounts">50000</p>
+                        </td>
+                    </tr>

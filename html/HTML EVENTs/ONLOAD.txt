@@ -1,0 +1,6 @@
+https://www.w3schools.com/tags/ref_eventattributes.asp
+
+
+//onload="loader()" 
+
+<body onload="loader()"  background="https://thumbs.dreamstime.com/z/opportunity-concept-banking-system-services-wooden-blocks-210418914.jpg">
