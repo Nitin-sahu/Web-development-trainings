@@ -1,0 +1,2 @@
+document.getElementById("loading");
+    var preloader = document.getElementById("loading");

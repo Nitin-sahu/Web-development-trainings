@@ -1,0 +1,30 @@
+
+    .task_container2 {
+    box-sizing: border-box;
+    /* position: absolute; 
+    height: 250px;
+    left: 80px;
+    right: 80px;
+    top: 50%;
+    padding: 50px; */
+    border: 1px solid #DFE8EC;
+    background: #FDFDFD;
+    border-radius: 4px;
+    margin:17px;
+}
+
+
+    .task_container {
+        box-sizing: border-box;
+       /* position: absolute;
+        height: 450px;
+        left: 80px;
+        right: 80px;
+        top: 20%;
+        
+        padding: 50px;*/
+        border: 1px solid #DFE8EC;
+        background: #FDFDFD;
+        border-radius: 4px;
+        padding: 18px;
+    }

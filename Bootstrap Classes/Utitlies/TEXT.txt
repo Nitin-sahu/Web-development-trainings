@@ -1,0 +1,4 @@
+https://getbootstrap.com/docs/5.0/utilities/text/
+
+
+    <div class="my-info text-center">

@@ -1,0 +1,127 @@
+  <!-- table  -->
+    <div class="container">
+        <div class="table-responsive">
+            <table class="table table-hover table-bordered">
+                <thead>
+                    <tr class="table-danger">
+                        <th scope="col"><i>SR. No.</i></th>
+                        <th scope="col"><i>Transaction ID</i></th>
+                        <th scope="col"><i>Name
+                        </i></th>
+                        <th scope="col"><i>E-mail ID</i></th>
+                        <th scope="col"><i>Total Amounts</i></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="table-light">
+                        <td scope="row">1</td>
+                        <td>
+                            <p id="Transaction ID">SPI12345890013</p>
+                        </td>
+                        <td>Rahul</td>
+                        <td>Rahul@gmail.com</td>
+                        <td>
+                            <p id="Total Amounts">500</p>
+                        </td>
+                    </tr>
+                    <tr class="table-info">
+                        <td scope="row">2</td>
+                        <td>
+                            <p id="Transaction ID">DBI10000213909</p>
+                        </td>
+                        <td>Deepak</td>
+                        <td>deepak@gmail.com</td>
+                        <td>
+                            <p id="Total Amounts">10000</p>
+                        </td>
+                    </tr>
+                    <tr class="table-light">
+                        <td scope="row">3</td>
+                         <td>
+                            <p id="Transaction ID">ICICI10258976300</p>
+                        </td>
+                        <td>Ravi</td>
+                        <td>ravi@gmail.com</td>
+                        <td>
+                            <p id="Total Amounts">50000</p>
+                        </td>
+                    </tr>
+                    <tr class="table-info">
+                        <td scope="row">4</td>
+                         <td>
+                            <p id="Transaction ID">SBI20001500791</p>
+                        </td>
+                        <td>Raj</td>
+                        <td>raj58@gmail.com</td>
+                        <td>
+                            <p id="Total Amounts">8000</p>
+                        </td>
+                    </tr>
+                    <tr class="table-light">
+                        <td scope="row">5</td>
+                         <td>
+                            <p id="Transaction ID">HDFC10000200146</p>
+                        </td>
+                        <td>Ram</td>
+                        <td>ram78@gmail.com</td>
+                        <td>
+                            <p id="Total Amounts">5000</p>
+                        </td>
+                    </tr>
+                    <tr class="table-info">
+                        <td scope="row">6</td>
+                        <td>
+                            <p id="Transaction ID">RBI20001500791</p>
+                        </td>
+                        <td>Soniya</td>
+                        <td>Soniya@gmail.com</td>
+                        <td>
+                            <p id="Total Amounts">1000000000</p>
+                        </td>
+                    </tr>
+                    <tr class="table-light">
+                        <td scope="row">7</td>
+                        <td>
+                            <p id="Transaction ID">SBI20001500791</p>
+                        </td>
+                        <td>Nitin</td>
+                        <td>nitin@gmail.com</td>
+                        <td>
+                            <p id="Total Amounts">100000</p>
+                        </td>
+                    </tr>
+                    <tr class="table-info">
+                        <td scope="row">8</td>
+                        <td>
+                            <p id="Transaction ID">KOTAK2000777745</p>
+                        </td>
+                        <td>Pawan</td>
+                        <td>pawan123@gmail.com</td>
+                        <td>
+                            <p id="Total Amounts">35000</p>
+                        </td>
+                    </tr>
+                    <tr class="table-light">
+                        <td scope="row">9</td>
+                        <td>
+                            <p id="Transaction ID">IDB2000777791</p>
+                        </td>
+                        <td>Ishita</td>
+                        <td>Ishita@gmail.com</td>
+                        <td>
+                            <p id="Total Amounts">12000</p>
+                        </td>
+                    </tr>
+                    <tr class="table-info">
+                        <td scope="row">10</td>
+                        <td>
+                            <p id="Transaction ID">TMO2000150451</p>
+                        </td>
+                        <td>Nikita</td>
+                        <td>Nikita585@gmail.com</td>
+                        <td>
+                            <p id="Total Amounts">1000</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>

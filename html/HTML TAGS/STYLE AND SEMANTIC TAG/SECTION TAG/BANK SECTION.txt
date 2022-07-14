@@ -1,0 +1,24 @@
+<section id="action" class="coloured-section">
+    <h1 class="title">Why should you choose us ?</h1>
+  </section>
+  <section id="features1" class="white-section">
+        <div class="row text-center">
+
+ <div class="feature-boxes col-lg-4 col-md-6">
+            <h3 class="feature-title">
+              <img src="C:\Users\HP\Desktop\Sparks foundation\Images\spark foundation logo.png" width="50px" height="50px">Do banking very easily.</h3>
+            <p>One tap transaction</p>
+          </div>
+
+
+
+  <div class="feature-boxes col-lg-4 col-md-6">
+            <h3 class="feature-title">
+              <img src="C:\Users\HP\Desktop\Sparks foundation\Images\spark foundation logo.png" width="50px" height="50px">Do banking very easily.</h3>
+            <p>One tap transaction</p>
+          </div>
+          <div class="feature-boxes col-lg-4 col-md-6">
+            <h3 class="feature-title"><img src="C:\Users\HP\Desktop\Sparks foundation\Images\spark foundation logo.png" width="50px" height="50px">Check your Transaction.</h3>
+            <p>Easiest way to view transaction history.</p><br>
+          </div>
+          <div class="feature-boxes col-lg-4 col-md-6">

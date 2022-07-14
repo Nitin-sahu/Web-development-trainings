@@ -1,0 +1,5 @@
+    
+https://www.sitepoint.com/cool-scroll-animations-made-easy-aos-library/
+AOS.init({
+      duration: 700,
+    });

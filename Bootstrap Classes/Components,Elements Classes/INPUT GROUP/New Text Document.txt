@@ -1,0 +1,12 @@
+ https://getbootstrap.com/docs/4.0/components/input-group/
+
+
+//class="input-group-text"
+<div class="input-group-append">
+                                <span class="input-group-text">.00</span>
+                          </div>
+
+
+<div class="input-group-append">
+                                <span class="input-group-text" id="basic-addon2">@gmail.com</span>
+                            </div>

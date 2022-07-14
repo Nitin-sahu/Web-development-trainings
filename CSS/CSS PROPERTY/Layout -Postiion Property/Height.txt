@@ -1,0 +1,30 @@
+height="20px"
+
+      <img src="C:\Users\HP\Desktop\Sparks foundation\Images\spark foundation logo.png" width="90px" height="90px">
+
+
+.btn
+{
+float:right;
+margin: 15px;
+   
+width: 100px;
+
+height: 40px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+
+
+background: #005377;
+
+border-radius: 4px; 
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 24px;
+gap: 10px;
+font-color:#FFFFFF;
+}

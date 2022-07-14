@@ -1,0 +1,11 @@
+.footer.well {
+    color: #777;
+    border-left: none;
+    border-right: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    padding: 39px 0;
+    display: none;
+}

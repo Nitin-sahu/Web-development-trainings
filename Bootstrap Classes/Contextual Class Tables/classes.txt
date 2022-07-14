@@ -1,0 +1,12 @@
+
+
+class="table-light">
+
+Contextual classes
+Use contextual classes to color table rows or individual cells.
+on row
+<tr class="table-info">
+
+
+
+table-info"
